@@ -1,0 +1,10 @@
+C:\Documents and Settings\HP Compaq\My Documents\for Studio_C#\Console_Course\MyConsoleC#\LABS\LAB2\Divider\bin\Release\Divider.exe
+C:\Documents and Settings\HP Compaq\My Documents\for Studio_C#\Console_Course\MyConsoleC#\LABS\LAB2\Divider\bin\Release\Divider.pdb
+C:\Documents and Settings\HP Compaq\My Documents\for Studio_C#\Console_Course\MyConsoleC#\LABS\LAB2\Divider\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\HP Compaq\My Documents\for Studio_C#\Console_Course\MyConsoleC#\LABS\LAB2\Divider\obj\Release\Divider.exe
+C:\Documents and Settings\HP Compaq\My Documents\for Studio_C#\Console_Course\MyConsoleC#\LABS\LAB2\Divider\obj\Release\Divider.pdb
+E:\Лим\for lean\for Studio_C#\Console_Course\MyConsoleC#\C#_осень_2018\Labs_2018_\Lab02\SOLUTION\Divider\obj\Release\Divider.exe
+E:\Лим\for lean\for Studio_C#\Console_Course\MyConsoleC#\C#_осень_2018\Labs_2018_\Lab02\SOLUTION\Divider\obj\Release\Divider.pdb
+E:\Лим\for lean\for Studio_C#\Console_Course\MyConsoleC#\C#_осень_2018\Labs_2018_\Lab02\SOLUTION\Divider\bin\Release\Divider.exe
+E:\Лим\for lean\for Studio_C#\Console_Course\MyConsoleC#\C#_осень_2018\Labs_2018_\Lab02\SOLUTION\Divider\bin\Release\Divider.pdb
+E:\Лим\for lean\for Studio_C#\Console_Course\MyConsoleC#\C#_осень_2018\Labs_2018_\Lab02\SOLUTION\Divider\obj\Release\Divider.csprojResolveAssemblyReference.cache
