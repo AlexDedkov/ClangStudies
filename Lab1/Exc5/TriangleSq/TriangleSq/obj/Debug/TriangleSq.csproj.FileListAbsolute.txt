@@ -1,0 +1,7 @@
+D:\C#Labs\Lab1\Exc5\TriangleSq\TriangleSq\bin\Debug\TriangleSq.exe.config
+D:\C#Labs\Lab1\Exc5\TriangleSq\TriangleSq\bin\Debug\TriangleSq.exe
+D:\C#Labs\Lab1\Exc5\TriangleSq\TriangleSq\bin\Debug\TriangleSq.pdb
+D:\C#Labs\Lab1\Exc5\TriangleSq\TriangleSq\obj\Debug\TriangleSq.csproj.AssemblyReference.cache
+D:\C#Labs\Lab1\Exc5\TriangleSq\TriangleSq\obj\Debug\TriangleSq.csproj.CoreCompileInputs.cache
+D:\C#Labs\Lab1\Exc5\TriangleSq\TriangleSq\obj\Debug\TriangleSq.exe
+D:\C#Labs\Lab1\Exc5\TriangleSq\TriangleSq\obj\Debug\TriangleSq.pdb
