@@ -1,0 +1,9 @@
+C:\Documents and Settings\HP Compaq\My Documents\for Studio_C#\Console_Course\MyConsoleC#\LABS\LAB2\Greetings\bin\Release\Greetings.exe
+C:\Documents and Settings\HP Compaq\My Documents\for Studio_C#\Console_Course\MyConsoleC#\LABS\LAB2\Greetings\bin\Release\Greetings.pdb
+C:\Documents and Settings\HP Compaq\My Documents\for Studio_C#\Console_Course\MyConsoleC#\LABS\LAB2\Greetings\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\HP Compaq\My Documents\for Studio_C#\Console_Course\MyConsoleC#\LABS\LAB2\Greetings\obj\Release\Greetings.exe
+C:\Documents and Settings\HP Compaq\My Documents\for Studio_C#\Console_Course\MyConsoleC#\LABS\LAB2\Greetings\obj\Release\Greetings.pdb
+E:\Лим\for lean\for Studio_C#\Console_Course\MyConsoleC#\C#_осень_2018\Labs_2018_\Lab02\SOLUTION\Greetings\obj\Release\Greetings.exe
+E:\Лим\for lean\for Studio_C#\Console_Course\MyConsoleC#\C#_осень_2018\Labs_2018_\Lab02\SOLUTION\Greetings\obj\Release\Greetings.pdb
+E:\Лим\for lean\for Studio_C#\Console_Course\MyConsoleC#\C#_осень_2018\Labs_2018_\Lab02\SOLUTION\Greetings\bin\Release\Greetings.exe
+E:\Лим\for lean\for Studio_C#\Console_Course\MyConsoleC#\C#_осень_2018\Labs_2018_\Lab02\SOLUTION\Greetings\bin\Release\Greetings.pdb

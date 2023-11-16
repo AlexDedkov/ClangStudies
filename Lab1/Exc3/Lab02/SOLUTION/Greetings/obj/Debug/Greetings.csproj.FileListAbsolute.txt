@@ -1,0 +1,5 @@
+C:\Documents and Settings\HP Compaq\My Documents\for Studio_C#\Console_Course\MyConsoleC#\LABS\LAB2\Greetings\bin\Debug\Greetings.exe
+C:\Documents and Settings\HP Compaq\My Documents\for Studio_C#\Console_Course\MyConsoleC#\LABS\LAB2\Greetings\bin\Debug\Greetings.pdb
+C:\Documents and Settings\HP Compaq\My Documents\for Studio_C#\Console_Course\MyConsoleC#\LABS\LAB2\Greetings\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\HP Compaq\My Documents\for Studio_C#\Console_Course\MyConsoleC#\LABS\LAB2\Greetings\obj\Debug\Greetings.exe
+C:\Documents and Settings\HP Compaq\My Documents\for Studio_C#\Console_Course\MyConsoleC#\LABS\LAB2\Greetings\obj\Debug\Greetings.pdb

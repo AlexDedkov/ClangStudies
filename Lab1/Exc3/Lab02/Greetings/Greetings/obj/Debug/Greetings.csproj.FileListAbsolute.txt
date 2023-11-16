@@ -1,0 +1,14 @@
+D:\C#Labs\Lab1\Exc2\Lab02\Greeter\Greetings\bin\Debug\Greetings.exe.config
+D:\C#Labs\Lab1\Exc2\Lab02\Greeter\Greetings\bin\Debug\Greetings.exe
+D:\C#Labs\Lab1\Exc2\Lab02\Greeter\Greetings\bin\Debug\Greetings.pdb
+D:\C#Labs\Lab1\Exc2\Lab02\Greeter\Greetings\obj\Debug\Greetings.csproj.AssemblyReference.cache
+D:\C#Labs\Lab1\Exc2\Lab02\Greeter\Greetings\obj\Debug\Greetings.csproj.CoreCompileInputs.cache
+D:\C#Labs\Lab1\Exc2\Lab02\Greeter\Greetings\obj\Debug\Greetings.exe
+D:\C#Labs\Lab1\Exc2\Lab02\Greeter\Greetings\obj\Debug\Greetings.pdb
+D:\C#Labs\Lab1\Exc3\Lab02\Greetings\Greetings\bin\Debug\Greetings.exe.config
+D:\C#Labs\Lab1\Exc3\Lab02\Greetings\Greetings\bin\Debug\Greetings.exe
+D:\C#Labs\Lab1\Exc3\Lab02\Greetings\Greetings\bin\Debug\Greetings.pdb
+D:\C#Labs\Lab1\Exc3\Lab02\Greetings\Greetings\obj\Debug\Greetings.csproj.AssemblyReference.cache
+D:\C#Labs\Lab1\Exc3\Lab02\Greetings\Greetings\obj\Debug\Greetings.csproj.CoreCompileInputs.cache
+D:\C#Labs\Lab1\Exc3\Lab02\Greetings\Greetings\obj\Debug\Greetings.exe
+D:\C#Labs\Lab1\Exc3\Lab02\Greetings\Greetings\obj\Debug\Greetings.pdb
