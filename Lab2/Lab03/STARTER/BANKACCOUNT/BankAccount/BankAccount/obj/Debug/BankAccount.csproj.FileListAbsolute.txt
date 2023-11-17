@@ -1,0 +1,7 @@
+D:\КУРСЫ ИТМО\Инженер Программист\C#\Labs\Lab03\STARTER\BANKACCOUNT\BankAccount\BankAccount\bin\Debug\BankAccount.exe.config
+D:\КУРСЫ ИТМО\Инженер Программист\C#\Labs\Lab03\STARTER\BANKACCOUNT\BankAccount\BankAccount\bin\Debug\BankAccount.exe
+D:\КУРСЫ ИТМО\Инженер Программист\C#\Labs\Lab03\STARTER\BANKACCOUNT\BankAccount\BankAccount\bin\Debug\BankAccount.pdb
+D:\КУРСЫ ИТМО\Инженер Программист\C#\Labs\Lab03\STARTER\BANKACCOUNT\BankAccount\BankAccount\obj\Debug\BankAccount.csproj.AssemblyReference.cache
+D:\КУРСЫ ИТМО\Инженер Программист\C#\Labs\Lab03\STARTER\BANKACCOUNT\BankAccount\BankAccount\obj\Debug\BankAccount.csproj.CoreCompileInputs.cache
+D:\КУРСЫ ИТМО\Инженер Программист\C#\Labs\Lab03\STARTER\BANKACCOUNT\BankAccount\BankAccount\obj\Debug\BankAccount.exe
+D:\КУРСЫ ИТМО\Инженер Программист\C#\Labs\Lab03\STARTER\BANKACCOUNT\BankAccount\BankAccount\obj\Debug\BankAccount.pdb
