@@ -1,2 +1,0 @@
-D:\КУРСЫ ИТМО\Инженер Программист\C#\Labs\Lab04\Starter\WhatDay3\obj\Debug\WhatDay3.csproj.AssemblyReference.cache
-D:\КУРСЫ ИТМО\Инженер Программист\C#\Labs\Lab04\Starter\WhatDay3\obj\Debug\WhatDay3.csproj.CoreCompileInputs.cache
