@@ -1,0 +1,6 @@
+D:\КУРСЫ ИТМО\Инженер Программист\C#\Labs\Lab04\Starter\WhatDay1\bin\Debug\WhatDay1.exe
+D:\КУРСЫ ИТМО\Инженер Программист\C#\Labs\Lab04\Starter\WhatDay1\bin\Debug\WhatDay1.pdb
+D:\КУРСЫ ИТМО\Инженер Программист\C#\Labs\Lab04\Starter\WhatDay1\obj\Debug\WhatDay1.csproj.AssemblyReference.cache
+D:\КУРСЫ ИТМО\Инженер Программист\C#\Labs\Lab04\Starter\WhatDay1\obj\Debug\WhatDay1.csproj.CoreCompileInputs.cache
+D:\КУРСЫ ИТМО\Инженер Программист\C#\Labs\Lab04\Starter\WhatDay1\obj\Debug\WhatDay1.exe
+D:\КУРСЫ ИТМО\Инженер Программист\C#\Labs\Lab04\Starter\WhatDay1\obj\Debug\WhatDay1.pdb
