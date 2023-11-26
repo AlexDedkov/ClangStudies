@@ -1,0 +1,14 @@
+D:\C#Labs\Lab5\Massive\Massive\bin\Debug\net8.0\Massive.exe
+D:\C#Labs\Lab5\Massive\Massive\bin\Debug\net8.0\Massive.deps.json
+D:\C#Labs\Lab5\Massive\Massive\bin\Debug\net8.0\Massive.runtimeconfig.json
+D:\C#Labs\Lab5\Massive\Massive\bin\Debug\net8.0\Massive.dll
+D:\C#Labs\Lab5\Massive\Massive\bin\Debug\net8.0\Massive.pdb
+D:\C#Labs\Lab5\Massive\Massive\obj\Debug\net8.0\Massive.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Labs\Lab5\Massive\Massive\obj\Debug\net8.0\Massive.AssemblyInfoInputs.cache
+D:\C#Labs\Lab5\Massive\Massive\obj\Debug\net8.0\Massive.AssemblyInfo.cs
+D:\C#Labs\Lab5\Massive\Massive\obj\Debug\net8.0\Massive.csproj.CoreCompileInputs.cache
+D:\C#Labs\Lab5\Massive\Massive\obj\Debug\net8.0\Massive.dll
+D:\C#Labs\Lab5\Massive\Massive\obj\Debug\net8.0\refint\Massive.dll
+D:\C#Labs\Lab5\Massive\Massive\obj\Debug\net8.0\Massive.pdb
+D:\C#Labs\Lab5\Massive\Massive\obj\Debug\net8.0\Massive.genruntimeconfig.cache
+D:\C#Labs\Lab5\Massive\Massive\obj\Debug\net8.0\ref\Massive.dll
