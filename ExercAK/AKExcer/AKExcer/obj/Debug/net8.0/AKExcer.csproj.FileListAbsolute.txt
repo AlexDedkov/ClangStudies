@@ -1,0 +1,14 @@
+D:\C#Labs\Новая папка\AKExcer\AKExcer\obj\Debug\net8.0\AKExcer.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Labs\Новая папка\AKExcer\AKExcer\obj\Debug\net8.0\AKExcer.AssemblyInfoInputs.cache
+D:\C#Labs\Новая папка\AKExcer\AKExcer\obj\Debug\net8.0\AKExcer.AssemblyInfo.cs
+D:\C#Labs\Новая папка\AKExcer\AKExcer\obj\Debug\net8.0\AKExcer.csproj.CoreCompileInputs.cache
+D:\C#Labs\Новая папка\AKExcer\AKExcer\bin\Debug\net8.0\AKExcer.exe
+D:\C#Labs\Новая папка\AKExcer\AKExcer\bin\Debug\net8.0\AKExcer.deps.json
+D:\C#Labs\Новая папка\AKExcer\AKExcer\bin\Debug\net8.0\AKExcer.runtimeconfig.json
+D:\C#Labs\Новая папка\AKExcer\AKExcer\bin\Debug\net8.0\AKExcer.dll
+D:\C#Labs\Новая папка\AKExcer\AKExcer\bin\Debug\net8.0\AKExcer.pdb
+D:\C#Labs\Новая папка\AKExcer\AKExcer\obj\Debug\net8.0\AKExcer.dll
+D:\C#Labs\Новая папка\AKExcer\AKExcer\obj\Debug\net8.0\refint\AKExcer.dll
+D:\C#Labs\Новая папка\AKExcer\AKExcer\obj\Debug\net8.0\AKExcer.pdb
+D:\C#Labs\Новая папка\AKExcer\AKExcer\obj\Debug\net8.0\AKExcer.genruntimeconfig.cache
+D:\C#Labs\Новая папка\AKExcer\AKExcer\obj\Debug\net8.0\ref\AKExcer.dll
