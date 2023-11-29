@@ -15,7 +15,7 @@ internal class Program
         Trian1.PrintExist();
         Trian1.PrintPerimeter();
         Trian1.PrintSquare();
-
+        // Creating a non triangle to check
         Triangle Trian2 = new Triangle(6, 0, 3);
         Trian2.PrintExist();
         Trian2.PrintPerimeter();
