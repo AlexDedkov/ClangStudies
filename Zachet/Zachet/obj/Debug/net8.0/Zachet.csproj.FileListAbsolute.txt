@@ -1,0 +1,14 @@
+D:\C#Labs\Zachetn\Zachet\Zachet\bin\Debug\net8.0\Zachet.exe
+D:\C#Labs\Zachetn\Zachet\Zachet\bin\Debug\net8.0\Zachet.deps.json
+D:\C#Labs\Zachetn\Zachet\Zachet\bin\Debug\net8.0\Zachet.runtimeconfig.json
+D:\C#Labs\Zachetn\Zachet\Zachet\bin\Debug\net8.0\Zachet.dll
+D:\C#Labs\Zachetn\Zachet\Zachet\bin\Debug\net8.0\Zachet.pdb
+D:\C#Labs\Zachetn\Zachet\Zachet\obj\Debug\net8.0\Zachet.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Labs\Zachetn\Zachet\Zachet\obj\Debug\net8.0\Zachet.AssemblyInfoInputs.cache
+D:\C#Labs\Zachetn\Zachet\Zachet\obj\Debug\net8.0\Zachet.AssemblyInfo.cs
+D:\C#Labs\Zachetn\Zachet\Zachet\obj\Debug\net8.0\Zachet.csproj.CoreCompileInputs.cache
+D:\C#Labs\Zachetn\Zachet\Zachet\obj\Debug\net8.0\Zachet.dll
+D:\C#Labs\Zachetn\Zachet\Zachet\obj\Debug\net8.0\refint\Zachet.dll
+D:\C#Labs\Zachetn\Zachet\Zachet\obj\Debug\net8.0\Zachet.pdb
+D:\C#Labs\Zachetn\Zachet\Zachet\obj\Debug\net8.0\Zachet.genruntimeconfig.cache
+D:\C#Labs\Zachetn\Zachet\Zachet\obj\Debug\net8.0\ref\Zachet.dll
